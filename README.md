@@ -12,4 +12,5 @@ These pages can also be seen at http://www.di.fc.ul.pt/~jpn/r/
 Note: work in progress.
 
 #############################################################################
+
 The most comfortable way to preview HTML files on GitHub is to go to https://htmlpreview.github.io/ or just prepend it to the original URL, i.e.: https://htmlpreview.github.io/?
